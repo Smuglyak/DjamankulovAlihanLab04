@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.deps.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.runtimeconfig.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\bin\Debug\net6.0-windows\TabControl.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.usingTabsForm.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.AssemblyInfo.cs
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\refint\TabControl.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\TabControl.genruntimeconfig.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\TabControl\TabControl\obj\Debug\net6.0-windows\ref\TabControl.dll

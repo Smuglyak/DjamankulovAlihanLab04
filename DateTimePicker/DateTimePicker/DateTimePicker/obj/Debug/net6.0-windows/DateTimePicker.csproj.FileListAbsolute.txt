@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\net6.0-windows\DateTimePicker.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\net6.0-windows\DateTimePicker.deps.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\net6.0-windows\DateTimePicker.runtimeconfig.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\net6.0-windows\DateTimePicker.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\bin\Debug\net6.0-windows\DateTimePicker.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.DateTimePickerForm.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.AssemblyInfo.cs
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\refint\DateTimePicker.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\DateTimePicker.genruntimeconfig.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\DateTimePicker\DateTimePicker\DateTimePicker\obj\Debug\net6.0-windows\ref\DateTimePicker.dll

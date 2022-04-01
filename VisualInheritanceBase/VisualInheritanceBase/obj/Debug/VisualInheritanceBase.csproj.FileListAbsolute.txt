@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.Properties.Resources.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll.config
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.VisualInheritanceBaseForm.resources

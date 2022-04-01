@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net6.0-windows\LinkLabel.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net6.0-windows\LinkLabel.deps.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net6.0-windows\LinkLabel.runtimeconfig.json
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net6.0-windows\LinkLabel.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net6.0-windows\LinkLabel.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.LinkLabelTestForm.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.AssemblyInfo.cs
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\refint\LinkLabel.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\LinkLabel.genruntimeconfig.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net6.0-windows\ref\LinkLabel.dll

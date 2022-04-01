@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceTest3.exe.config
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceTest3.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceTest3.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceBase.dll
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceBase.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\bin\Debug\VisualInheritanceBase.dll.config
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.Properties.Resources.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.csproj.CopyComplete
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\VisualInheritanceTest3\VisualInheritanceTest3\obj\Debug\VisualInheritanceTest3.Form1.resources

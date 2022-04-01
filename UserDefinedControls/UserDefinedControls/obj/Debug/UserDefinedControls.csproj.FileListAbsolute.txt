@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.exe.config
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\bin\Debug\UserDefinedControls.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.ClockUserControl.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.Properties.Resources.resources
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.exe
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.pdb
+C:\Users\HP\Desktop\AppDev\DjamankulovAlihanLab04\UserDefinedControls\UserDefinedControls\obj\Debug\UserDefinedControls.Clock.resources
